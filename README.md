@@ -10,6 +10,8 @@
 
 [Perfect sphere](https://larvance.github.io/html3d/examples/sphere.html)
 
+[The rock](https://larvance.github.io/html3d/examples/rock.html)
+
 # TODO
 
 ## Wiki 0/3
@@ -43,7 +45,7 @@
 - [X] Ring geometry
 - [X] Shape geometry
 - [X] Sphere geometry
-- [ ] Tetrahedron geometry
+- [X] Tetrahedron geometry
 - [ ] Torus geometry
 - [ ] Torus Knot geometry
 - [ ] Tube geometry
