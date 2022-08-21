@@ -4,20 +4,20 @@
 
 # Examples
 
-[Spinning cube](httNote://larvance.github.io/html3d/examples/cube.html)
+[Spinning cube](https://larvance.github.io/html3d/examples/cube.html)
 
-[Spinning heart](httNote://larvance.github.io/html3d/examples/heart.html)
+[Spinning heart](https://larvance.github.io/html3d/examples/heart.html)
 
-[Perfect sphere](httNote://larvance.github.io/html3d/examples/sphere.html)
+[Perfect sphere](https://larvance.github.io/html3d/examples/sphere.html)
 
-[The rock](httNote://larvance.github.io/html3d/examples/rock.html)
+[The rock](https://larvance.github.io/html3d/examples/rock.html)
 
 # A quick example
 
 ## Implementation
 
 ```html
-<script src="httNote://unpkg.com/html3d"></script>
+<script src="https://unpkg.com/html3d"></script>
 ```
 
 ## Create a scene
